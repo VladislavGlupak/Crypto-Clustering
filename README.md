@@ -118,7 +118,7 @@ market_pca_data = pca.fit_transform(df_market_data_predictions)
 pca.explained_variance_ratio_
 ```
 
-The total explained variance of the three principal components is 88.99%.
+The total explained variance of the three principal components is 89.49%.
 
 ```
 array([0.36384149, 0.35308123, 0.17298865])
@@ -129,7 +129,7 @@ array([0.36384149, 0.35308123, 0.17298865])
 ![App's prompts](Images/k_pca.JPG)
 
 The best value for k when using the PCA data is 4.
-k is the same but inertia reduced twice, comparing k of original data.
+k is the same, comparing to k of original data.
 
 ## Cluster Cryptocurrencies with K-means Using the PCA Data
 

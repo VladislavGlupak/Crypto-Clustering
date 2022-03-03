@@ -141,7 +141,7 @@ k is the same, comparing to k of original data.
 
 ![App's prompts](Images/cluster_vis.JPG)
 
-After a visual analysis of the clustered results, we can say for sure that reducing the data to cluster the data makes the data more readable and accurate, as the data inertia becomes smaller.
+After a visual analysis of the clustered results, we can say for sure that reducing the data to cluster the data makes the data more readable and accurate.
 
 ---
 
